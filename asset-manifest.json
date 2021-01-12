@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/:http://keerthana-sc-027.github.io/create-react-app-assignment-2/static/css/main.725a869b.chunk.css",
-    "main.js": "/:http://keerthana-sc-027.github.io/create-react-app-assignment-2/static/js/main.c49507b7.chunk.js",
-    "main.js.map": "/:http://keerthana-sc-027.github.io/create-react-app-assignment-2/static/js/main.c49507b7.chunk.js.map",
-    "runtime-main.js": "/:http://keerthana-sc-027.github.io/create-react-app-assignment-2/static/js/runtime-main.648c279d.js",
-    "runtime-main.js.map": "/:http://keerthana-sc-027.github.io/create-react-app-assignment-2/static/js/runtime-main.648c279d.js.map",
-    "static/js/2.2df4087c.chunk.js": "/:http://keerthana-sc-027.github.io/create-react-app-assignment-2/static/js/2.2df4087c.chunk.js",
-    "static/js/2.2df4087c.chunk.js.map": "/:http://keerthana-sc-027.github.io/create-react-app-assignment-2/static/js/2.2df4087c.chunk.js.map",
-    "index.html": "/:http://keerthana-sc-027.github.io/create-react-app-assignment-2/index.html",
-    "static/css/main.725a869b.chunk.css.map": "/:http://keerthana-sc-027.github.io/create-react-app-assignment-2/static/css/main.725a869b.chunk.css.map",
-    "static/js/2.2df4087c.chunk.js.LICENSE.txt": "/:http://keerthana-sc-027.github.io/create-react-app-assignment-2/static/js/2.2df4087c.chunk.js.LICENSE.txt"
+    "main.css": "/React-To-Do-List-withjs-assnmnt-2/static/css/main.725a869b.chunk.css",
+    "main.js": "/React-To-Do-List-withjs-assnmnt-2/static/js/main.c49507b7.chunk.js",
+    "main.js.map": "/React-To-Do-List-withjs-assnmnt-2/static/js/main.c49507b7.chunk.js.map",
+    "runtime-main.js": "/React-To-Do-List-withjs-assnmnt-2/static/js/runtime-main.01e07446.js",
+    "runtime-main.js.map": "/React-To-Do-List-withjs-assnmnt-2/static/js/runtime-main.01e07446.js.map",
+    "static/js/2.2df4087c.chunk.js": "/React-To-Do-List-withjs-assnmnt-2/static/js/2.2df4087c.chunk.js",
+    "static/js/2.2df4087c.chunk.js.map": "/React-To-Do-List-withjs-assnmnt-2/static/js/2.2df4087c.chunk.js.map",
+    "index.html": "/React-To-Do-List-withjs-assnmnt-2/index.html",
+    "static/css/main.725a869b.chunk.css.map": "/React-To-Do-List-withjs-assnmnt-2/static/css/main.725a869b.chunk.css.map",
+    "static/js/2.2df4087c.chunk.js.LICENSE.txt": "/React-To-Do-List-withjs-assnmnt-2/static/js/2.2df4087c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.648c279d.js",
+    "static/js/runtime-main.01e07446.js",
     "static/js/2.2df4087c.chunk.js",
     "static/css/main.725a869b.chunk.css",
     "static/js/main.c49507b7.chunk.js"
